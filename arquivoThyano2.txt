@@ -2,9 +2,13 @@ Conteudo do arquivo 2 (Thyano)
 
 arquivo 2 alterado
 
+<<<<<<< HEAD
 
 
 
 
 
 //Thyano Correia Santos | Alteração para atender ao passo 7.
+=======
+alterado por ele
+>>>>>>> 3ff8f8a96ef19e8b33501b13f80c463fe7508a95
