@@ -2,3 +2,9 @@ Conteudo do arquivo 1 (Thyano)
 
 
 arquivo 1 alterado
+
+
+
+
+
+//Thyano Correia Santos | Alteração para atender ao passo 7.
