@@ -12,3 +12,5 @@ arquivo 3 alterado
 alterado para passo 8
 
 Thyano, ok.
+
+passo 8 novamente
